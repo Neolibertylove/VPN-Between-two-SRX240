@@ -1,5 +1,5 @@
-Configuring a Route-Based VPN between to Juniper SRX 240
+Configuring a Route-Based VPN between two Juniper SRX 240
 ================
 
-This example shows how to configure a route-based IPsec and IKE VPN two allow data two be securely
+This example shows how to configure a route-based IPsec and IKE VPN to allow data two be securely
 transferred between a Kolding office and s Middelfat office.
